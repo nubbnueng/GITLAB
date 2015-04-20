@@ -28,7 +28,7 @@ int main()
                 printf("%5d",i*number);
             }
         }
-        else if (number==0) printf("Have a nice day!"); //QUIT case
+        else if (number==0) printf("Good luck!"); //QUIT case
         else printf("Input Error. Enter 0 to QUIT or number between 2-19."); //Error case
 
     }
