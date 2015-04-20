@@ -10,7 +10,7 @@
 int main()
 {
     int age,hour,min;
-    char name[10],sex,married;
+    char name[20],sex,married;
 
     do
     {
