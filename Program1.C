@@ -59,7 +59,8 @@ int main()
         while((hour<0 || hour>23)|| (min<0 || min>59));
     }
     while(strcmp(name,"STOP")!=0);
-
+    printf("changeA1");
+    printf("changeA2");
 
 
 return 0;
