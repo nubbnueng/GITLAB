@@ -21,7 +21,7 @@ int main()
             printf("Good Bye!\n");
             break;
         }
-
+        printf("changeB1");
         do
         {
             printf("Please enter your age, gender (M/F), and are you married (Y/N): ");
@@ -34,6 +34,7 @@ int main()
         while ((age<1 || age>120)||(sex!='M' && sex!='F')||(married!='Y' && married!='N'));
         //printf("Please enter your age, gender (M/F), and are you married (Y/N): ");
         //scanf("%d %c %c",&age,&sex,&married);
+        printf("changeB1");
 
         do
         {
